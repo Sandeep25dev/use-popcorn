@@ -2,6 +2,8 @@
 
 ## First go to this site's link:
 
+### https://usepopcorn-sandeep.netlify.app/
+
 ## When this app will open in your browser, you can simply search for any movies that you want in the search bar.
 
 ## After searching for movie, it will load of the names of the movies which matches your search query and will listed in the left side of the screen.
